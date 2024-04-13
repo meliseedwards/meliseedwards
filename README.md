@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meliseedwards.
-- 👀 I’m interested in bioinformatics, transcriptomics, neuroscience and primatology.
-- 🌱 I’m currently working on analyzing controlled access data to explore sex differences in Alzheimer's disease!
+- 👀 I’m interested in using bioinformatics to better understand sex differences in the brain, especially in the context of disease.
+- 🌱 I’m currently working on analyzing controlled access human postmortem data to explore sex differences in Alzheimer's disease.
 - 💞️ I’m looking to finish my PhD in the next few months and work in industry or nonprofit. 
 - 📫 How to reach me: medwards@umass.edu 
 
